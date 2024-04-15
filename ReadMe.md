@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Sou estudante na área de Análise e desenvolvimento de Sistemas.<br>👯 Estou a procura de um estágio na área<br>🌱 Atualmente estou aprendendo sobre lógica de programação e desenvolvimento de programas na linguagem C.<br>
+🔭 Sou estagiário na área de Análise e desenvolvimento de Sistemas.<br><br>🌱 Atualmente estou aprendendo sobre lógica de programação e desenvolvimento de programas na linguagem C.<br>
 
 
 ## 🌐 Socials:
