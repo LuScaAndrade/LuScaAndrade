@@ -17,7 +17,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Linguagens que eu uso</h2>
 
 ###
 
@@ -34,6 +34,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
+
+###
+
+<h2 align="left">Redes Sociais</h2>
 
 ###
 
