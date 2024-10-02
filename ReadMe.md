@@ -6,7 +6,7 @@ Atualmente estou cursando **Análise e Desenvolvimento de Sistemas** e trabalhan
 ---
 
 ## 🔧 Tecnologias e Ferramentas
-- **Backend**: Java, Spring Boot, APIs REST
+- **Backend**: Java, Spring Boot,Python,C, APIs REST
 - **Frontend**: React, JavaScript, HTML, CSS
 - **Banco de dados**: MongoDB, MySQL
 - **Ferramentas**: Git, GitHub
