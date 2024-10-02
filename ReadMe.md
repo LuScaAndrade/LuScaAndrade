@@ -63,4 +63,8 @@ Seja bem-vindo(a) ao meu perfil! Sempre em busca de aprender e contribuir com pr
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuScaAndrade&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 ---
-[![](https://visitcount.itsvg.in/api?id=LuScaAndrade&icon=0&color=12)](https://visitcount.itsvg.in)
+<div align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=LuScaAndrade&label=Profile%20Views&color=12&icon=0&pretty=true" />
+  </a>
+</div>
