@@ -1,7 +1,7 @@
 # Olá, eu sou Lucas! 👋
 
 ## Desenvolvedor em Análise e Desenvolvimento de Sistemas 🚀
-Atualmente estou cursando **Análise e Desenvolvimento de Sistemas** e trabalhando em vários projetos, desde aplicativos web até sistemas completos. Focado em desenvolvimento backend com Java, Spring Boot e Python, C, também tenho experiência com React.
+Atualmente estou cursando **Análise e Desenvolvimento de Sistemas** e trabalhando em vários projetos, desde aplicativos web até sistemas completos. Focado em desenvolvimento backend com Java, Spring Boot, Python, C, e também tenho experiência com React.
 
 ---
 
