@@ -1,14 +1,13 @@
 # Olá, eu sou Lucas! 👋
 
-## Desenvolvedor em Análise e Desenvolvimento de Sistemas 🚀
-Atualmente estou cursando **Análise e Desenvolvimento de Sistemas** e trabalhando em vários projetos, desde aplicativos web até sistemas completos. Focado em desenvolvimento backend com Java, Spring Boot, Python, C, e também tenho experiência com React.
+## Desenvolvedor Back-End 🚀
+Atualmente estou cursando **Análise e Desenvolvimento de Sistemas** e trabalhando em vários projetos, desde aplicativos web até sistemas completos. Focado em desenvolvimento backend com Java, Spring Boot, TypeScript, e AdonisJS.
 
 ---
 
 ## 🔧 Tecnologias e Ferramentas
 - **Backend**: Java, Spring Boot, Python, C, APIs REST
-- **Frontend**: React, JavaScript, HTML, CSS
-- **Banco de dados**: MongoDB, MySQL
+- **Banco de dados**: MongoDB, Postgres 
 - **Ferramentas**: Git, GitHub
 
 ---
@@ -28,8 +27,8 @@ Um sistema de gerenciamento de usuários com Java, incluindo operações de cria
 ## 🌱 Estou aprendendo
 - JavaScript e TypeSript
 - Criação de aplicações utilizando AdonisJS
-- Tecnologias usadas no Frontend, como React e Tailwind
 - Melhoria contínua em APIs REST e sistemas web
+- Tecnologias usadas no Frontend, como React e Tailwind
 
 Seja bem-vindo(a) ao meu perfil! Sempre em busca de aprender e contribuir com projetos que fazem a diferença.
 
