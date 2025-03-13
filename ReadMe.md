@@ -26,9 +26,9 @@ Um sistema de gerenciamento de usuários com Java, incluindo operações de cria
 ---
 
 ## 🌱 Estou aprendendo
-- Python
+- JavaScript e TypeSript
 - Criação de aplicações utilizando AdonisJS
-- Tecnologias usadas no Frontend
+- Tecnologias usadas no Frontend, como React e Tailwind
 - Melhoria contínua em APIs REST e sistemas web
 
 Seja bem-vindo(a) ao meu perfil! Sempre em busca de aprender e contribuir com projetos que fazem a diferença.
@@ -67,7 +67,7 @@ Seja bem-vindo(a) ao meu perfil! Sempre em busca de aprender e contribuir com pr
 </div>
 
 <div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=LuScaAndrade&label=Profile%20Views&color=12&icon=0&pretty=true" />
-  </a>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=LuScaAndrade&label=Profile%20Views&color=12&icon=5&pretty=true" />
+</a>
 </div>
