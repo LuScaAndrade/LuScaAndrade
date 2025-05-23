@@ -6,8 +6,8 @@ Atualmente estou cursando **Análise e Desenvolvimento de Sistemas** e trabalhan
 ---
 
 ## 🔧 Tecnologias e Ferramentas
-- **Backend**: Java, Spring Boot, Python, C, APIs REST
-- **Banco de dados**: MongoDB, Postgres 
+- **Backend**: Java, Spring Boot, Typescript, JavaScript, AdonisJS APIs REST e SOAP
+- **Banco de dados**: MongoDB, Postgres, Microsoft SQL Server
 - **Ferramentas**: Git, GitHub
 
 ---
@@ -19,9 +19,8 @@ Um aplicativo para registrar presença em eventos com QR code, gerenciar partici
 - **Backend**: Java, Spring Boot
 - **Banco de dados**: MongoDB
 
-### Sistema CRUD
-Um sistema de gerenciamento de usuários com Java, incluindo operações de criar, ler, atualizar e excluir, com boas práticas de composição de classes.
-
+### Encurtador de URLs com Spring Boot
+API RESTful desenvolvida utilizando SpringBoot para encurtamento de URLs, oferecendo uma solução simples, rápida e eficiente.
 ---
 
 ## 🌱 Estou aprendendo
